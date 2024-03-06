@@ -2,7 +2,7 @@
 
 ## Objective:
 
-Develop a solution to focus not only on the company's performance internally on how well their products sell but also analyze other top competitors' sales and how well they are performing against the other competitors' products from 2019 to 2021.
+Develop a solution that evaluates the company's internal performance by analyzing product sales and compares it with the sales of top competitors, assessing how these competitors perform against each other from 2019 to 2021.
 
 ## Power BI Concepts applied:
 
@@ -12,6 +12,7 @@ Develop a solution to focus not only on the company's performance internally on 
 - Exploratory data analysis
 - DAX calculation
 - Visualization
+- Performance testing
 
 ## Data Sourcing
 
@@ -23,7 +24,7 @@ The datasets were sourced from the Datacamp.
 
 ![save1](./modelling.jpeg)
 
-## Data Analysis and Visuals
+## Data Visualization
 
 ![save1](./competitor_analysis.jpeg)
 
@@ -31,10 +32,12 @@ The datasets were sourced from the Datacamp.
 
 ![save1](./top_man-seg-prod.jpeg)
 
-## Conclusions & Recommendations
+![save1](./top5.jpeg)
+
+## Conclusions
 
 - Revenue Growth: Sintec experienced a significant revenue increase, with a growth rate of 21.16% in 2021.
-- Market Share: In the USA, Sintec holds a strong market presence, with a market share of 31.39%.
-- Competition Analysis: Artisans emerges as the primary competitor, commanding over 50% of the market compared to the next four competitors in Germany.
+- Market Share: In the USA, Sintec holds a market presence of 31.51%.
+- Competition Analysis: Artisans emerges as the primary competitor, commanding over 60% of the market revenue compared to the next four competitors in Germany.
 - Top Performing Segment: The Extreme Segment leads in performance for Sintec, generating revenues of $36M.
-- - Product Profitability: The UE-05 product stands out as one of Sintec's most profitable offerings.
+- Product Profitability: The UE-05 product stands out as one of Sintec's most profitable offerings.
