@@ -25,11 +25,11 @@ The datasets were sourced from the Datacamp.
 
 ## Data Analysis and Visuals
 
-![save1](./competitor_analysis.jpeg.jpeg)
+![save1](./competitor_analysis.jpeg)
 
 ![save1](./advanced_analysis.jpeg)
 
-![save1](./top man-seg-prod.jpeg)
+![save1](./top_man-seg-prod.jpeg)
 
 ## Conclusions & Recommendations
 
